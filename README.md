@@ -52,7 +52,7 @@ Want to get Joyo Bot up and running? Here's how:
 
 **1. Clone the Repository**
 
-git clone https://github.com/your-username/joyo-bot.git
+git clone [(https://github.com/Yoni-Berihun/jOyO-Food-Ordering-bot.git)]
 cd joyo-bot
 2. Install Dependencies
 Create a requirements.txt file containing python-telegram-bot and run:
