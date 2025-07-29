@@ -12,9 +12,9 @@ Effortlessly browse menus, place orders in your native language, and watch as Jo
 
 ### 🌟 Live Demo in Action 🌟
 
-**(A short GIF of the bot flow here would be incredibly effective!)**
 
-![Demo GIF Placeholder](https://user-images.githubusercontent.com/20992336/160233439-0a6e3860-9d8a-4933-875f-25f0e3e2d6b3.png)
+
+![Demo GIF Placeholder][(https://user-images.githubusercontent.com/20992336/160233439-0a6e3860-9d8a-4933-875f-25f0e3e2d6b3.png](https://drive.google.com/file/d/1kptHMkDzgfw9UgqxlUlA_cjVeC71EHtJ/view?usp=drivesdk))
 *A quick look at a user selecting a language, browsing Mama's Kitchen, viewing an item, and placing an order.*
 
 ---
