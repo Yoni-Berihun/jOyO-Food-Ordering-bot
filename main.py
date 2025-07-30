@@ -14,15 +14,7 @@ from handlers.management import add_food_command # IMPORT THE NEW HANDLER
 
 if __name__ == '__main__':
     # Make sure to replace YOUR_BOT_TOKEN with your actual token
-    app = Application.builder().token("
-    
-    
-    
-    
-    
-    
-    
-    ").build()
+    app = Application.builder().token("8048474466:AAGbaAFDVPWJGXoGQaLew7EwjVM8NlE5F9w").build()
 
     # Regular user commands
     app.add_handler(CommandHandler("start", start_command))
